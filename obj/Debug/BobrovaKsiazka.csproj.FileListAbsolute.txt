@@ -1,0 +1,16 @@
+C:\GitReposes\BobrovaKsiazka\BobrovaKsiazka\bin\Debug\BobrovaKsiazka.exe.config
+C:\GitReposes\BobrovaKsiazka\BobrovaKsiazka\bin\Debug\BobrovaKsiazka.exe
+C:\GitReposes\BobrovaKsiazka\BobrovaKsiazka\bin\Debug\BobrovaKsiazka.pdb
+C:\GitReposes\BobrovaKsiazka\BobrovaKsiazka\obj\Debug\BobrovaKsiazka.csproj.AssemblyReference.cache
+C:\GitReposes\BobrovaKsiazka\BobrovaKsiazka\obj\Debug\BobrovaKsiazka.csproj.SuggestedBindingRedirects.cache
+C:\GitReposes\BobrovaKsiazka\BobrovaKsiazka\obj\Debug\BobrovaKsiazka.Form1.resources
+C:\GitReposes\BobrovaKsiazka\BobrovaKsiazka\obj\Debug\BobrovaKsiazka.Properties.Resources.resources
+C:\GitReposes\BobrovaKsiazka\BobrovaKsiazka\obj\Debug\BobrovaKsiazka.csproj.GenerateResource.cache
+C:\GitReposes\BobrovaKsiazka\BobrovaKsiazka\obj\Debug\BobrovaKsiazka.csproj.CoreCompileInputs.cache
+C:\GitReposes\BobrovaKsiazka\BobrovaKsiazka\obj\Debug\BobrovaKsiazka.exe
+C:\GitReposes\BobrovaKsiazka\BobrovaKsiazka\obj\Debug\BobrovaKsiazka.pdb
+C:\GitReposes\BobrovaKsiazka\BobrovaKsiazka\obj\Debug\BobrovaKsiazka.Registration.resources
+C:\GitReposes\BobrovaKsiazka\BobrovaKsiazka\bin\Debug\System.Data.SQLite.dll
+C:\GitReposes\BobrovaKsiazka\BobrovaKsiazka\bin\Debug\System.Data.SQLite.xml
+C:\GitReposes\BobrovaKsiazka\BobrovaKsiazka\obj\Debug\BobrovaKsiazka.csproj.CopyComplete
+C:\GitReposes\BobrovaKsiazka\BobrovaKsiazka\obj\Debug\BobrovaKsiazka.RegistryForm.resources
